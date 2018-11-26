@@ -1,5 +1,4 @@
 ---
-layout: post
 title: My Current Favorite Dataset
 subtitle: Hint: Think metabolic syndromes
 image: /img/DM_dataset_pandas_df_shape.PNG
