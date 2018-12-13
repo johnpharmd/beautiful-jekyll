@@ -1,5 +1,4 @@
 ---
-Title: Is Metformin In Your Future?
 Subtitle: And why maybe it should be
 ---
 
