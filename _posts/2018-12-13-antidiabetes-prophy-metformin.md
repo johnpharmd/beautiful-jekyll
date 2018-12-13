@@ -1,4 +1,3 @@
-
 ---
 Title: Is metformin in your future?
 Subtitle: And why it maybe should be
