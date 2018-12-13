@@ -1,3 +1,8 @@
+---
+Title: Is Metformin In Your Future?
+Subtitle: And why maybe it should be
+---
+
 
 America’s not perfect. No newsflash, that. But one problem in particular is looming massive by 2050. **One third of *all* of us will have developed diabetes by then**, if current [trends hold](https://www.einstein.yu.edu/centers/diabetes-research/facts-statistics/).
 
