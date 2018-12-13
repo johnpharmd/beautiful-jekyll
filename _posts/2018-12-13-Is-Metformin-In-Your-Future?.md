@@ -10,6 +10,6 @@ Yes, you read that right. One-third of Americans. Huge problem, no? What can we 
 Well, some scientists are recommending that many folks without diabetes take a unique, well-studied medicine called [metformin]( https://www.wired.com/story/this-pill-promises-to-extend-life-for-a-nickel-a-pop/). But metformin is usually started only *after* a physician’s diagnosis of type 2 diabetes mellitus. That’s the current [FDA indication](https://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm493293.htm). I looked at [this UC Irvine Dataset](https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008#) to try to get a sense of whether *prophylactic* metformin might lessen human suffering.
 
 Here’s what I learned. First, some of the top values for the dataset.
-https://github.com/johnpharmd/johnpharmd.github.io/blob/master/img/2018-12-13-blog-img1.png
+/img/2018-12-13-blog-img1.png
 
 Give my conclusion.
