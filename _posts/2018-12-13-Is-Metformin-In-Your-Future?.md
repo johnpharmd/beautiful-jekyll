@@ -1,4 +1,3 @@
-
 ---
 title: Is Metformin In Your Future?
 subtitle: And why maybe it should be
@@ -19,5 +18,8 @@ Now, before you clamor about non-generalizability, please consider that really o
 Given my work as a clinical pharmacist (including in more than one hospital), it didn't surprise me that number of diagnoses increased with age, but I wanted to visualize it.
 
 ![img-2](/img/2018-12-13-blog-img2.png)
+
+So this mini-analysis wouldn't be complete without at least one statistical test, right? I ran a t-test for independent samples on the crosstab of number of diagnoses versus the potential class label of taking/not taking metformin--hat tip to Python3 and pandas here!
+
 
 Give my conclusion.
