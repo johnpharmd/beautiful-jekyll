@@ -11,5 +11,5 @@ Well, some scientists are recommending that many folks without diabetes take a u
 
 Here's what I learned. <Tell what I learned.>
 
-Give conclusion.
+Give my conclusion.
  
