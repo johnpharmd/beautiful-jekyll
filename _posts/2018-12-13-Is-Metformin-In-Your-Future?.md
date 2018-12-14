@@ -27,7 +27,10 @@ And here is the number of diagnoses versus the class label.
 
 ![img-4](/img/2018-12-13-blog-img4.png)
 
-So this mini-analysis wouldn't be complete without at least one statistical test, right? I ran a t-test for independent samples on the crosstab of number of diagnoses versus the potential class label of taking/not taking metformin.
+So this mini-analysis wouldn't be complete without at least one statistical test, right? I ran a t-test for independent samples on the crosstab of number of diagnoses versus the class label.
 
+![img-5](/img/2018-12-13-blog-img5.png)
 
-(Give my conclusion.)
+My conclusion? Alas, a negative finding. Or, more formally: I fail to reject the null hypothesis that there was no statistically significant difference in the number of diagnoses between patients taking metformin and those patients not taking it.
+
+Wanted to p-hack here, but held off. Thanks for reading along! (See you on Twitter? I'm @johnpharmd.)
