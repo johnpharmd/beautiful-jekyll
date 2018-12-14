@@ -19,7 +19,7 @@ Given my work as a clinical pharmacist (including in more than one hospital), it
 
 ![img-2](/img/2018-12-13-blog-img2.png)
 
-Here, I show age brackets versus the metformin class label.
+Here, I show the metformin class label versus the patient age brackets.
 
 ![img-3](/img/2018-12-13-blog-img3.PNG)
 
