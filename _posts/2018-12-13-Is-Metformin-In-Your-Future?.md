@@ -27,7 +27,7 @@ And here is the number of diagnoses versus the class label.
 
 ![img-4](/img/2018-12-13-blog-img4.png)
 
-So this mini-analysis wouldn't be complete without at least one statistical test, right? I ran a t-test for independent samples on the crosstab of number of diagnoses versus the class label.
+So this mini-analysis wouldn't be complete without at least one statistical test, right? I ran a one sample t-test on the crosstab of number of diagnoses versus the class label.
 
 ![img-5](/img/2018-12-13-blog-img5.png)
 
