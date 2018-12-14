@@ -17,7 +17,7 @@ Now, before you clamor about non-generalizability, please consider that really o
 
 Given my work as a clinical pharmacist (including in more than one hospital), it didn't surprise me that number of diagnoses increased with age, but I wanted to visualize it a la seaborn.
 
-![img-2](/img/2018-12-13-blog-img2.png)
+![img-6](/img/2018-12-13-blog-img6.png)
 
 Here, I show the metformin class label versus the patient age brackets.
 
