@@ -21,7 +21,7 @@ Given my work as a clinical pharmacist (including in more than one hospital), it
 
 Here, I show age brackets versus the metformin class label.
 
-![img-3]/(/img/2018-12-13-blog-img2.png)
+![img-3](/img/2018-12-13-blog-img3.png)
 
 So this mini-analysis wouldn't be complete without at least one statistical test, right? I ran a t-test for independent samples on the crosstab of number of diagnoses versus the potential class label of taking/not taking metformin.
 
