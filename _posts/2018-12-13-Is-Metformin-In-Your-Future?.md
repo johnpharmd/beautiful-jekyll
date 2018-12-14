@@ -15,7 +15,7 @@ Here’s a snapshot of what I did; see my Google [Colab notebook](https://colab.
 
 Now, before you clamor about non-generalizability, please consider that really only "race" is highly skewed here. (I prefer "ethnicity", but that's a topic for another post.)
 
-Given my work as a clinical pharmacist (including in more than one hospital), it didn't surprise me that number of diagnoses increased with age, but I wanted to visualize it a la seaborn.
+Given my work as a clinical pharmacist (including in more than one hospital), it didn't surprise me that number of diagnoses generally increased with age, but I wanted to visualize it a la seaborn.
 
 ![img-6](/img/2018-12-13-blog-img6.png)
 
